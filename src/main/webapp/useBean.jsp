@@ -23,13 +23,13 @@
 <%--    <%--%>
 <%--        Date date = new Date();--%>
 <%--    %>--%>
-   <jsp:useBean id="date" class="java.util.Date"></jsp:useBean>
+    <jsp:useBean id="date" class="java.util.Date"></jsp:useBean>
     <p>
         <%
-      out.print("오늘의 날짜 및 시간");
-    %>
-  </p>
-  <p><%=date%></p>
+        out.print("오늘의 날짜 및 시간");
+        %>
+    </p>
+    <p><%=date%></p>
 <%--    <%=new java.util.Date()%>--%>
 </div>
 </body>
