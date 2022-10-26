@@ -6,3 +6,6 @@
     1-2 include
     1-3 param
     1-4 useBean
+
+2022-10-26
+    액션태그 property
